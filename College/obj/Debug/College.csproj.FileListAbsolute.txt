@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\College\College\bin\Debug\College.exe.config
+C:\Users\ahmet\source\repos\College\College\bin\Debug\College.exe
+C:\Users\ahmet\source\repos\College\College\bin\Debug\College.pdb
+C:\Users\ahmet\source\repos\College\College\obj\Debug\College.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\College\College\obj\Debug\College.Form1.resources
+C:\Users\ahmet\source\repos\College\College\obj\Debug\College.Properties.Resources.resources
+C:\Users\ahmet\source\repos\College\College\obj\Debug\College.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\College\College\obj\Debug\College.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\College\College\obj\Debug\College.exe
+C:\Users\ahmet\source\repos\College\College\obj\Debug\College.pdb
